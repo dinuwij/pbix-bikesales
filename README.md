@@ -1,12 +1,13 @@
 # pbix-bikesales
-PowerBI dashboard for bicycle sales data analysis.
+**PowerBI dashboard for bicycle sales data analysis.**
 
-This was built based on a tutorial to analyse the sales data of 2021 and 2022 and provide recommendations for price changes. 
+This was built based on a tutorial which analyzes the sales data of 2021 and 2022 and provide recommendations for price increase. (End-to-End Data Analysis Project 2024 | SQL & Power BI)
 
-Comments:
-Personally followed this tutorial as it was real business usecase which incorporates good recommendations.
-Learnings:
-Connecting data from a DB server by querying data. It also provided some good recommendations which would add value to a business.
+**Comments:**
+Personally followed this tutorial as it was real business usecase which incorporates on how to approach a business problem and how to add good recommendations.
+
+**Learnings:**
+Connecting data from a DB server by querying data. Learnt how to add good recommendations which would add value to a business.
 
 Following are screenshots of the dashboard.
 
